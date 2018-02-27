@@ -1,0 +1,25 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #313133;
+      }
+    </style>
+  </defs>
+  <title>FYP - Research</title>
+  <g>
+    <rect class="cls-1" x="26.667" y="26.667" width="6.667" height="6.667"/>
+    <rect class="cls-1" x="6.056" y="6.621" width="6.667" height="6.667"/>
+    <rect class="cls-1" x="12.722" y="13.288" width="6.667" height="6.667"/>
+    <rect class="cls-1" x="47.278" y="6.621" width="6.667" height="6.667"/>
+    <rect class="cls-1" x="40.611" y="13.288" width="6.667" height="6.667"/>
+    <rect class="cls-1" x="6.056" y="46.712" width="6.667" height="6.667"/>
+    <rect class="cls-1" x="12.722" y="40.046" width="6.667" height="6.667"/>
+    <rect class="cls-1" x="47.278" y="46.712" width="6.667" height="6.667"/>
+    <rect class="cls-1" x="40.611" y="40.046" width="6.667" height="6.667"/>
+    <rect class="cls-1" x="26.667" width="6.667" height="20"/>
+    <rect class="cls-1" x="26.667" y="40" width="6.667" height="20"/>
+    <rect class="cls-1" y="26.667" width="20" height="6.667"/>
+    <rect class="cls-1" x="40" y="26.667" width="20" height="6.667"/>
+  </g>
+</svg>
