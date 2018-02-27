@@ -5,6 +5,7 @@
     <lastmod>2018-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ciarantrotman.github.io/phone/index.html"/>
     <image:image>
       <image:loc>http://ciarantrotman.github.io/images/spy%20museum%20300x300.jpg</image:loc>
     </image:image>
@@ -64,7 +65,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://ciarantrotman.github.io/ciaran-trotman--xr-interaction-design.html</loc>
+    <loc>http://ciarantrotman.github.io/xr-interaction-design.html</loc>
     <lastmod>2018-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
