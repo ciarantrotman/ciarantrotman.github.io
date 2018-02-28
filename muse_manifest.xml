@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1519828305097">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1519828736178">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="349920452" ref="phone>index"/>
@@ -26,7 +26,7 @@
     <file name="require.js" crc="4157109226" ref="index:phone>index:current-project"/>
   </folder>
   <folder name="images">
-    <file name="h---home-page-favicon.ico" crc="370142808" ref="phone>index:index:current-project"/>
+    <file name="h---home-page-favicon.ico" crc="370142808" ref="phone>index:index"/>
     <file name="blank.gif" crc="4208392903" ref="index:phone>index:current-project"/>
     <file name="spy museum 300x300.jpg" crc="4127625206" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -79,7 +79,7 @@
       <caption webpage="xr-interaction-design" alt=""/>
       <caption webpage="current-project" alt=""/>
     </file>
-    <file name="skills - user experience_poster_.png" crc="170145719" ref="index:current-project"/>
+    <file name="skills - user experience_poster_.png" crc="170145719" ref="index"/>
     <file name="projects - digital veil-crop-u2974.jpg" crc="4198091490" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -89,7 +89,7 @@
       <caption webpage="xr-interaction-design" alt=""/>
       <caption webpage="current-project" alt=""/>
     </file>
-    <file name="skills - digital fabrication_poster_.png" crc="4031414876" ref="index:current-project"/>
+    <file name="skills - digital fabrication_poster_.png" crc="4031414876" ref="index"/>
     <file name="projects - smarter travel-crop-u3362.jpg" crc="295415306" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -99,28 +99,28 @@
       <caption webpage="xr-interaction-design" alt=""/>
       <caption webpage="current-project" alt=""/>
     </file>
-    <file name="contact - email_poster_.png" crc="4004171746" ref="phone>index:index:current-project"/>
+    <file name="contact - email_poster_.png" crc="4004171746" ref="phone>index:index"/>
     <file name="contact---phone-icon.svg" crc="9715486" seo="true" ref="index:phone>index:current-project">
       <caption webpage="index" alt=""/>
       <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
       <caption webpage="xr-interaction-design" alt=""/>
       <caption webpage="current-project" alt=""/>
     </file>
-    <file name="contact - phone icon_poster_.png" crc="269636629" ref="phone>index:index:current-project"/>
+    <file name="contact - phone icon_poster_.png" crc="269636629" ref="phone>index:index"/>
     <file name="contact---youtube.svg" crc="24100529" seo="true" ref="index:phone>index:current-project">
       <caption webpage="index" alt=""/>
       <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
       <caption webpage="xr-interaction-design" alt=""/>
       <caption webpage="current-project" alt=""/>
     </file>
-    <file name="contact - youtube_poster_.png" crc="4116112587" ref="phone>index:index:current-project"/>
+    <file name="contact - youtube_poster_.png" crc="4116112587" ref="phone>index:index"/>
     <file name="contact---linkedin.svg" crc="129267140" seo="true" ref="index:phone>index:current-project">
       <caption webpage="index" alt=""/>
       <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
       <caption webpage="xr-interaction-design" alt=""/>
       <caption webpage="current-project" alt=""/>
     </file>
-    <file name="contact - linkedin_poster_.png" crc="414590252" ref="phone>index:index:current-project"/>
+    <file name="contact - linkedin_poster_.png" crc="414590252" ref="phone>index:index"/>
     <file name="fyp---research.svg" crc="268263466" seo="true" ref="current-project">
       <caption webpage="xr-interaction-design" alt=""/>
       <caption webpage="xr-interaction-design" alt=""/>
@@ -294,6 +294,6 @@
     </file>
     <file name="interaction design plan_poster_.png" crc="61188391" ref="current-project"/>
   </folder>
-  <file name="index.html" crc="377559737" seo="true" mt="1519820554366" redirect="true"/>
-  <file name="current-project.html" crc="3761125797" seo="true" mt="1519828286311" redirect="true"/>
+  <file name="index.html" crc="319981646" seo="true" mt="1519828654699" redirect="true"/>
+  <file name="current-project.html" crc="27991090" seo="true" mt="1519828695974" redirect="true"/>
 </manifest>
