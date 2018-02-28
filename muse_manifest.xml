@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1519771749825">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1519813789211">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="349920452" ref="phone>index"/>
@@ -8,7 +8,7 @@
   <folder name="css">
     <file name="site_global.css" crc="309371708"/>
     <file name="master_h---home-page.css" crc="3794541891" ref="index:xr-interaction-design"/>
-    <file name="index.css" crc="473225747" ref="index"/>
+    <file name="index.css" crc="264056314" ref="index"/>
     <file name="xr-interaction-design.css" crc="307267733" ref="xr-interaction-design"/>
   </folder>
   <folder name="scripts">
@@ -26,7 +26,7 @@
     <file name="require.js" crc="4157109226" ref="index:phone>index:xr-interaction-design"/>
   </folder>
   <folder name="images">
-    <file name="h---home-page-favicon.ico" crc="370142808" ref="phone>index"/>
+    <file name="h---home-page-favicon.ico" crc="370142808" ref="phone>index:index"/>
     <file name="blank.gif" crc="4208392903" ref="index:phone>index:xr-interaction-design"/>
     <file name="spy museum 300x300.jpg" crc="4127625206" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -93,32 +93,28 @@
     </file>
     <file name="contact---email.svg" crc="327284134" seo="true" ref="index:phone>index:xr-interaction-design">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
       <caption webpage="xr-interaction-design" alt=""/>
     </file>
-    <file name="contact - email_poster_.png" crc="4004171746" ref="phone>index"/>
+    <file name="contact - email_poster_.png" crc="4004171746" ref="phone>index:index"/>
     <file name="contact---phone-icon.svg" crc="9715486" seo="true" ref="index:phone>index:xr-interaction-design">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
       <caption webpage="xr-interaction-design" alt=""/>
     </file>
-    <file name="contact - phone icon_poster_.png" crc="269636629" ref="phone>index"/>
+    <file name="contact - phone icon_poster_.png" crc="269636629" ref="phone>index:index"/>
     <file name="contact---youtube.svg" crc="24100529" seo="true" ref="index:phone>index:xr-interaction-design">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
       <caption webpage="xr-interaction-design" alt=""/>
     </file>
-    <file name="contact - youtube_poster_.png" crc="4116112587" ref="phone>index"/>
+    <file name="contact - youtube_poster_.png" crc="4116112587" ref="phone>index:index"/>
     <file name="contact---linkedin.svg" crc="129267140" seo="true" ref="index:phone>index:xr-interaction-design">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
       <caption webpage="xr-interaction-design" alt=""/>
     </file>
-    <file name="contact - linkedin_poster_.png" crc="414590252" ref="phone>index"/>
+    <file name="contact - linkedin_poster_.png" crc="414590252" ref="phone>index:index"/>
     <file name="fyp---research.svg" crc="268263466" seo="true" ref="xr-interaction-design">
       <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
       <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
@@ -261,6 +257,6 @@
       <caption webpage="xr-interaction-design" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4007444120" seo="true" mt="1519771424880" redirect="true"/>
+  <file name="index.html" crc="127150230" seo="true" mt="1519813746592" redirect="true"/>
   <file name="xr-interaction-design.html" crc="456842970" seo="true" mt="1519771427816" redirect="true"/>
 </manifest>
