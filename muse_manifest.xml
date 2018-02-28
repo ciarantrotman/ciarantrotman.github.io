@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1519816140755">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1519817137550">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="349920452" ref="phone>index"/>
@@ -257,6 +257,6 @@
       <caption webpage="xr-interaction-design" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4180214758" seo="true" mt="1519816129720" redirect="true"/>
-  <file name="xr-interaction-design.html" crc="456842970" seo="true" mt="1519771427816" redirect="true"/>
+  <file name="index.html" crc="47775691" seo="true" mt="1519817121252" redirect="true"/>
+  <file name="xr-interaction-design.html" crc="3973999148" seo="true" mt="1519817121252" redirect="true"/>
 </manifest>
