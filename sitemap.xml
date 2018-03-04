@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ciarantrotman.github.io/index.html</loc>
-    <lastmod>2018-03-02</lastmod>
+    <lastmod>2018-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ciarantrotman.github.io/phone/index.html"/>
@@ -63,10 +63,13 @@
     <image:image>
       <image:loc>http://ciarantrotman.github.io/images/contact---linkedin.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://ciarantrotman.github.io/images/contact---github.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://ciarantrotman.github.io/current-project.html</loc>
-    <lastmod>2018-03-02</lastmod>
+    <lastmod>2018-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -169,10 +172,13 @@
     <image:image>
       <image:loc>http://ciarantrotman.github.io/images/interaction-design-plan.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://ciarantrotman.github.io/images/contact---github.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://ciarantrotman.github.io/current-project-uc.html</loc>
-    <lastmod>2018-03-02</lastmod>
+    <lastmod>2018-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -220,6 +226,12 @@
     </image:image>
     <image:image>
       <image:loc>http://ciarantrotman.github.io/images/labelled-prototype-diagram.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ciarantrotman.github.io/images/contact---github.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ciarantrotman.github.io/images/fyp---github-repo.svg</image:loc>
     </image:image>
   </url>
 </urlset>
