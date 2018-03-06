@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1520358684212">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1520358810630">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="349920452" ref="phone>index"/>
+      <file name="index.css" crc="346177121" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="129235104" seo="true" mt="1519771729280" redirect="true"/>
+    <file name="index.html" crc="175223239" seo="true" mt="1520358798783" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3881411275"/>
@@ -306,12 +306,12 @@
       <caption webpage="current-project" alt=""/>
     </file>
     <file name="interaction design plan_poster_.png" crc="61188391" ref="current-project"/>
-    <file name="contact---github.svg" crc="66777257" seo="true" ref="index:current-project:current-project-uc">
+    <file name="contact---github.svg" crc="66777257" seo="true" ref="index:current-project:current-project-uc:phone>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="current-project" alt=""/>
       <caption webpage="current-project-uc" alt=""/>
+      <caption webpage="current-project" alt=""/>
     </file>
-    <file name="contact - github_poster_.png" crc="4147173034" ref="index"/>
+    <file name="contact - github_poster_.png" crc="4147173034" ref="index:phone>index"/>
     <file name="fyp---github-repo.svg" crc="3899105560" seo="true" ref="current-project-uc:index">
       <caption webpage="index" alt=""/>
       <caption webpage="current-project-uc" alt=""/>
