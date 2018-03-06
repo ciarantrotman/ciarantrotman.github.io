@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1520358401044">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1520358684212">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="349920452" ref="phone>index"/>
@@ -8,7 +8,7 @@
   <folder name="css">
     <file name="site_global.css" crc="3881411275"/>
     <file name="master_h---home-page.css" crc="4096186704" ref="index:current-project:current-project-uc"/>
-    <file name="index.css" crc="4169165567" ref="index"/>
+    <file name="index.css" crc="3902946397" ref="index"/>
     <file name="current-project.css" crc="164973254" ref="current-project"/>
     <file name="current-project-uc.css" crc="115113892" ref="current-project-uc"/>
   </folder>
@@ -73,10 +73,10 @@
     <file name="skills---user-experience.svg" crc="3772973414" seo="true" ref="index:current-project:current-project-uc">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="current-project" alt=""/>
       <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
+      <caption webpage="current-project" alt=""/>
+      <caption webpage="current-project-uc" alt=""/>
+      <caption webpage="xr-interaction-design" alt=""/>
     </file>
     <file name="skills - user experience_poster_.png" crc="170145719" ref="index"/>
     <file name="projects - digital veil-crop-u2974.jpg" crc="4198091490" seo="true" ref="index">
@@ -84,10 +84,10 @@
     </file>
     <file name="skills---digital-fabrication.svg" crc="398793185" seo="true" ref="index:current-project:current-project-uc">
       <caption webpage="index" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="current-project" alt=""/>
       <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
+      <caption webpage="current-project" alt=""/>
+      <caption webpage="current-project-uc" alt=""/>
+      <caption webpage="xr-interaction-design" alt=""/>
     </file>
     <file name="skills - digital fabrication_poster_.png" crc="4031414876" ref="index"/>
     <file name="projects - smarter travel-crop-u3362.jpg" crc="295415306" seo="true" ref="index">
@@ -95,34 +95,34 @@
     </file>
     <file name="contact---email.svg" crc="327284134" seo="true" ref="index:phone>index:current-project:current-project-uc">
       <caption webpage="index" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="current-project" alt=""/>
       <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
+      <caption webpage="current-project" alt=""/>
+      <caption webpage="current-project-uc" alt=""/>
+      <caption webpage="xr-interaction-design" alt=""/>
     </file>
     <file name="contact - email_poster_.png" crc="4004171746" ref="phone>index:index"/>
     <file name="contact---phone-icon.svg" crc="9715486" seo="true" ref="index:phone>index:current-project:current-project-uc">
       <caption webpage="index" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="current-project" alt=""/>
       <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
+      <caption webpage="current-project" alt=""/>
+      <caption webpage="current-project-uc" alt=""/>
+      <caption webpage="xr-interaction-design" alt=""/>
     </file>
     <file name="contact - phone icon_poster_.png" crc="269636629" ref="phone>index:index"/>
     <file name="contact---youtube.svg" crc="24100529" seo="true" ref="index:phone>index:current-project:current-project-uc">
       <caption webpage="index" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="current-project" alt=""/>
       <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
+      <caption webpage="current-project" alt=""/>
+      <caption webpage="current-project-uc" alt=""/>
+      <caption webpage="xr-interaction-design" alt=""/>
     </file>
     <file name="contact - youtube_poster_.png" crc="4116112587" ref="phone>index:index"/>
     <file name="contact---linkedin.svg" crc="129267140" seo="true" ref="index:phone>index:current-project:current-project-uc">
       <caption webpage="index" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="current-project" alt=""/>
       <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
+      <caption webpage="current-project" alt=""/>
+      <caption webpage="current-project-uc" alt=""/>
+      <caption webpage="xr-interaction-design" alt=""/>
     </file>
     <file name="contact - linkedin_poster_.png" crc="414590252" ref="phone>index:index"/>
     <file name="fyp---research.svg" crc="268263466" seo="true" ref="current-project">
@@ -308,13 +308,13 @@
     <file name="interaction design plan_poster_.png" crc="61188391" ref="current-project"/>
     <file name="contact---github.svg" crc="66777257" seo="true" ref="index:current-project:current-project-uc">
       <caption webpage="index" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
       <caption webpage="current-project" alt=""/>
+      <caption webpage="current-project-uc" alt=""/>
     </file>
     <file name="contact - github_poster_.png" crc="4147173034" ref="index"/>
     <file name="fyp---github-repo.svg" crc="3899105560" seo="true" ref="current-project-uc:index">
-      <caption webpage="current-project-uc" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="current-project-uc" alt=""/>
     </file>
     <file name="fyp - github repo_poster_.png" crc="519771594" ref="index"/>
     <file name="fyp---youtube.svg" crc="99165082" seo="true" ref="index">
@@ -325,7 +325,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="43761758" seo="true" mt="1520358366169" redirect="true"/>
+  <file name="index.html" crc="159941797" seo="true" mt="1520358674502" redirect="true"/>
   <file name="current-project.html" crc="4009519424" seo="true" mt="1520259628133" redirect="true"/>
   <file name="current-project-uc.html" crc="4047051165" seo="true" mt="1520259628133" redirect="true"/>
 </manifest>
