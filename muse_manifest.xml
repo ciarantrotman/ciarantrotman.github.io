@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1520359307753">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1520361096752">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="520667670" ref="phone>index"/>
@@ -8,7 +8,7 @@
   <folder name="css">
     <file name="site_global.css" crc="3881411275"/>
     <file name="master_h---home-page.css" crc="4096186704" ref="index:current-project:current-project-uc"/>
-    <file name="index.css" crc="3902946397" ref="index"/>
+    <file name="index.css" crc="93507831" ref="index"/>
     <file name="current-project.css" crc="164973254" ref="current-project"/>
     <file name="current-project-uc.css" crc="115113892" ref="current-project-uc"/>
   </folder>
@@ -328,7 +328,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3996196345" seo="true" mt="1520359261378" redirect="true"/>
+  <file name="index.html" crc="4240629266" seo="true" mt="1520361086604" redirect="true"/>
   <file name="current-project.html" crc="4009519424" seo="true" mt="1520259628133" redirect="true"/>
   <file name="current-project-uc.html" crc="4047051165" seo="true" mt="1520259628133" redirect="true"/>
 </manifest>
