@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1520358810630">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1520358908886">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="346177121" ref="phone>index"/>
+      <file name="index.css" crc="520667670" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="175223239" seo="true" mt="1520358798783" redirect="true"/>
+    <file name="index.html" crc="3886348866" seo="true" mt="1520358896655" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3881411275"/>
@@ -322,6 +322,9 @@
     </file>
     <file name="fyp - youtube_poster_.png" crc="4013020739" ref="index"/>
     <file name="ciarantrotmancom header.png" crc="44083150" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ciarantrotmancom header301x201.png" crc="447619907" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
