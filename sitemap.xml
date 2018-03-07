@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ciarantrotman.github.io/index.html</loc>
-    <lastmod>2018-03-06</lastmod>
+    <lastmod>2018-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ciarantrotman.github.io/phone/index.html"/>
@@ -61,6 +61,19 @@
       <image:loc>http://ciarantrotman.github.io/images/contact---linkedin.svg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://ciarantrotman.github.io/images/skills---interaction-design.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ciarantrotman.github.io/images/skills---software-development.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ciarantrotman.github.io/images/skills---electronics.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ciarantrotman.github.io/images/platform-diagram.svg</image:loc>
+      <image:caption>Development Platform - Sections</image:caption>
+    </image:image>
+    <image:image>
       <image:loc>http://ciarantrotman.github.io/images/contact---github.svg</image:loc>
     </image:image>
     <image:image>
@@ -75,7 +88,7 @@
   </url>
   <url>
     <loc>http://ciarantrotman.github.io/current-project.html</loc>
-    <lastmod>2018-03-05</lastmod>
+    <lastmod>2018-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -184,7 +197,7 @@
   </url>
   <url>
     <loc>http://ciarantrotman.github.io/current-project-uc.html</loc>
-    <lastmod>2018-03-05</lastmod>
+    <lastmod>2018-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
