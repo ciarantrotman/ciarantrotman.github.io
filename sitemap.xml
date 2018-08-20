@@ -2,258 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ciarantrotman.github.io/index.html</loc>
-    <lastmod>2018-07-16</lastmod>
+    <lastmod>2018-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ciarantrotman.github.io/phone/index.html"/>
     <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/about---experience.svg</image:loc>
+      <image:loc>http://ciarantrotman.github.io/images/ora%20render.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/about---education.svg</image:loc>
+      <image:loc>http://ciarantrotman.github.io/images/magazine%20hero.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/about---awards.svg</image:loc>
+      <image:loc>http://ciarantrotman.github.io/images/projects%20-%20nudest.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/about---patents.svg</image:loc>
+      <image:loc>http://ciarantrotman.github.io/images/office%20render%20flipped.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/projects%20-%20carmine.jpg</image:loc>
+      <image:loc>http://ciarantrotman.github.io/images/close-up-veil.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---cad.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---graphic-design.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/projects%20-%20alium-crop-u2987.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---ethnographic-research.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---user-experience.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/projects%20-%20digital%20veil-crop-u2974.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---digital-fabrication.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/projects%20-%20smarter%20travel-crop-u3362.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/contact---email.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/contact---phone-icon.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/contact---youtube.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/contact---linkedin.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---interaction-design.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---software-development.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---electronics.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/platform-diagram.svg</image:loc>
-      <image:caption>Development Platform - Sections</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/contact---github.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/fyp---github-repo.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/fyp---youtube.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/ciarantrotmancom%20header.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/projects%20-%20cookie%20clicker%202-crop-u5728.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/sam_1982-crop-u5911.jpg</image:loc>
+      <image:loc>http://ciarantrotman.github.io/images/favicon%20-%20text-01.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://ciarantrotman.github.io/current-project.html</loc>
-    <lastmod>2018-07-16</lastmod>
+    <loc>http://ciarantrotman.github.io/ciaran-trotman--about.html</loc>
+    <lastmod>2018-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---user-experience.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---digital-fabrication.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/contact---email.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/contact---phone-icon.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/contact---youtube.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/contact---linkedin.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/fyp---research.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/fyp---idea-generation.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/fyp---prototyping.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/fyp---concept-development.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/fyp---concept-refinement.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/fyp---final-design.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/concept%20development%20presentation%20user%20testing%20o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---interaction-design.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---software-development.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---electronics.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/initial-filtration.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/hardware-filtration.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/project-plan.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/exploration-topics.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/platform-diagram.svg</image:loc>
-      <image:caption>Development Platform - Sections</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/examples%20-%20platform%20poc.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/examples%20-%20platform%20poc%20development.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/labelled-prototype-diagram.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/configuration-linework---clip.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/configuration-linework---cuff.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/configuration-linework---ring.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/filtering-matrix---clip-chart.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/filtering-matrix---ring-chart.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/examples%20-%20dynamic%20affordance.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/examples%20-%20indirect%20movement.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/examples%20-%20hand%20occlusion.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/interaction-design-plan.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/contact---github.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://ciarantrotman.github.io/current-project-uc.html</loc>
-    <lastmod>2018-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---user-experience.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---digital-fabrication.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/contact---email.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/contact---phone-icon.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/contact---youtube.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/contact---linkedin.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/fyp---prototyping.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/concept%20development%20presentation%20user%20testing%20o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---interaction-design.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---software-development.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/skills---electronics.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/platform-diagram.svg</image:loc>
-      <image:caption>Development Platform - Sections</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/examples%20-%20platform%20poc.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/examples%20-%20platform%20poc%20development.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/labelled-prototype-diagram.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/contact---github.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ciarantrotman.github.io/images/fyp---github-repo.svg</image:loc>
-    </image:image>
   </url>
 </urlset>

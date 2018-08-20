@@ -1,349 +1,60 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1531751663020">
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="520667670" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="3886348866" seo="true" mt="1520358896655" redirect="true"/>
-  </folder>
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1534770902062">
   <folder name="css">
-    <file name="site_global.css" crc="3881411275"/>
-    <file name="master_h---home-page.css" crc="3942152977" ref="index:current-project:current-project-uc"/>
-    <file name="index.css" crc="153627262" ref="index"/>
-    <file name="current-project.css" crc="450071474" ref="current-project"/>
-    <file name="current-project-uc.css" crc="3876836874" ref="current-project-uc"/>
+    <file name="site_global.css" crc="309371708"/>
+    <file name="master_home--sidebar.css" crc="474295059" ref="ciaran-trotman--about:index"/>
+    <file name="ciaran-trotman--about.css" crc="4147598548" ref="ciaran-trotman--about"/>
+    <file name="index.css" crc="4002984615" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:current-project:current-project-uc"/>
-    <file name="museutils.js" crc="3803043152" ref="index:phone>index:current-project:current-project-uc"/>
-    <file name="whatinput.js" crc="86476730" ref="index:phone>index:current-project:current-project-uc"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:phone>index:current-project:current-project-uc"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:current-project:current-project-uc"/>
-    <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:phone>index:current-project:current-project-uc"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:current-project:current-project-uc"/>
-    <file name="require.js" crc="4157109226" ref="index:phone>index:current-project:current-project-uc"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:ciaran-trotman--about"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index:ciaran-trotman--about"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index:ciaran-trotman--about"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:index:ciaran-trotman--about"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:index:ciaran-trotman--about"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:index:ciaran-trotman--about"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:index:ciaran-trotman--about"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:index:ciaran-trotman--about"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:ciaran-trotman--about"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index:ciaran-trotman--about"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:ciaran-trotman--about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:ciaran-trotman--about"/>
   </folder>
   <folder name="images">
-    <file name="h---home-page-favicon.ico" crc="370142808" ref="phone>index:index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:phone>index:current-project"/>
-    <file name="about---experience.svg" crc="3861761311" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="about - experience_poster_.png" crc="113974777" ref="index"/>
-    <file name="about---education.svg" crc="96892082" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="about - education_poster_.png" crc="4173779782" ref="index"/>
-    <file name="about---awards.svg" crc="4184507873" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="about - awards_poster_.png" crc="3898351308" ref="index"/>
-    <file name="about---patents.svg" crc="85024688" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="about - patents_poster_.png" crc="181568562" ref="index"/>
-    <file name="projects - carmine.jpg" crc="4200455682" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="skills---cad.svg" crc="4283736704" seo="true" ref="index">
+    <file name="h---home-page-favicon.ico" crc="370142808" ref="phone>index"/>
+    <file name="ora render.jpg" crc="195351335" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="skills - cad_poster_.png" crc="3764706268" ref="index"/>
-    <file name="skills---graphic-design.svg" crc="271527496" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="magazine hero.jpg" crc="386433707" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="skills - graphic design_poster_.png" crc="4265683614" ref="index"/>
-    <file name="projects - alium-crop-u2987.png" crc="60287071" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="skills---ethnographic-research.svg" crc="33007424" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="projects - nudest.jpg" crc="3903862971" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="skills - ethnographic research_poster_.png" crc="4194105288" ref="index"/>
-    <file name="skills---user-experience.svg" crc="3772973414" seo="true" ref="index:current-project:current-project-uc">
+    <file name="office render flipped.png" crc="4072060936" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="close-up-veil.jpg" crc="176413700" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
     </file>
-    <file name="skills - user experience_poster_.png" crc="170145719" ref="index"/>
-    <file name="projects - digital veil-crop-u2974.jpg" crc="4198091490" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="skills---digital-fabrication.svg" crc="398793185" seo="true" ref="index:current-project:current-project-uc">
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="favicon - text-01.png" crc="237992591" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
     </file>
-    <file name="skills - digital fabrication_poster_.png" crc="4031414876" ref="index"/>
-    <file name="projects - smarter travel-crop-u3362.jpg" crc="295415306" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="contact---email.svg" crc="327284134" seo="true" ref="index:phone>index:current-project:current-project-uc">
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="contact - email_poster_.png" crc="4004171746" ref="phone>index:index"/>
-    <file name="contact---phone-icon.svg" crc="9715486" seo="true" ref="index:phone>index:current-project:current-project-uc">
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="contact - phone icon_poster_.png" crc="269636629" ref="phone>index:index"/>
-    <file name="contact---youtube.svg" crc="24100529" seo="true" ref="index:phone>index:current-project:current-project-uc">
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="contact - youtube_poster_.png" crc="4116112587" ref="phone>index:index"/>
-    <file name="contact---linkedin.svg" crc="129267140" seo="true" ref="index:phone>index:current-project:current-project-uc">
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="contact - linkedin_poster_.png" crc="414590252" ref="phone>index:index"/>
-    <file name="fyp---research.svg" crc="268263466" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="fyp - research_poster_.png" crc="389606249" ref="current-project"/>
-    <file name="fyp---idea-generation.svg" crc="72688337" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="fyp - idea generation_poster_.png" crc="3894549612" ref="current-project"/>
-    <file name="fyp---prototyping.svg" crc="495051993" seo="true" ref="current-project:current-project-uc">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="fyp - prototyping_poster_.png" crc="4280487483" ref="current-project"/>
-    <file name="fyp---concept-development.svg" crc="141008231" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="fyp - concept development_poster_.png" crc="3980313975" ref="current-project"/>
-    <file name="fyp---concept-refinement.svg" crc="4058354851" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="fyp - concept refinement_poster_.png" crc="481052497" ref="current-project"/>
-    <file name="fyp---final-design.svg" crc="186806842" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="fyp - final design_poster_.png" crc="533509749" ref="current-project"/>
-    <file name="concept development presentation user testing o.jpg" crc="4148852707" seo="true" ref="current-project:current-project-uc">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="skills---interaction-design.svg" crc="4242338460" seo="true" ref="current-project:current-project-uc:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="skills - interaction design_poster_.png" crc="4173658352" ref="index"/>
-    <file name="skills---software-development.svg" crc="456982889" seo="true" ref="current-project:current-project-uc:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="skills - software development_poster_.png" crc="3838296697" ref="index"/>
-    <file name="skills---electronics.svg" crc="4149640448" seo="true" ref="current-project:current-project-uc:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="skills - electronics_poster_.png" crc="3847747536" ref="index"/>
-    <file name="initial-filtration.svg" crc="365172121" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="initial filtration_poster_.png" crc="97780724" ref="current-project"/>
-    <file name="hardware-filtration.svg" crc="364960711" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="hardware filtration_poster_.png" crc="4138168155" ref="current-project"/>
-    <file name="project-plan.svg" crc="4120018304" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="project plan_poster_.png" crc="4241627434" ref="current-project"/>
-    <file name="exploration-topics.svg" crc="526879525" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="exploration topics_poster_.png" crc="157019669" ref="current-project"/>
-    <file name="platform-diagram.svg" crc="4185890110" seo="true" ref="current-project:current-project-uc:index">
-      <caption webpage="index" alt="Development Platform - Sections"/>
-      <caption webpage="current-project" alt="Development Platform - Sections"/>
-      <caption webpage="current-project-uc" alt="Development Platform - Sections"/>
-      <caption webpage="xr-interaction-design" alt="Development Platform - Sections"/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt="Development Platform - Sections"/>
-    </file>
-    <file name="platform diagram_poster_.png" crc="3979578641" ref="index"/>
-    <file name="examples - platform poc.gif" crc="28835186" seo="true" ref="current-project:current-project-uc">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="examples - platform poc development.gif" crc="8504478" seo="true" ref="current-project:current-project-uc">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="labelled-prototype-diagram.svg" crc="9512446" seo="true" ref="current-project:current-project-uc">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="labelled prototype diagram_poster_.png" crc="168122403" ref="current-project"/>
-    <file name="configuration-linework---clip.svg" crc="375344690" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="configuration linework - clip_poster_.png" crc="3897604467" ref="current-project"/>
-    <file name="configuration-linework---cuff.svg" crc="4165099625" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="configuration linework - cuff_poster_.png" crc="3767007683" ref="current-project"/>
-    <file name="configuration-linework---ring.svg" crc="4092171130" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="configuration linework - ring_poster_.png" crc="3950315606" ref="current-project"/>
-    <file name="filtering-matrix---clip-chart.svg" crc="292067701" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="filtering matrix - clip chart_poster_.png" crc="3920242577" ref="current-project"/>
-    <file name="filtering-matrix---ring-chart.svg" crc="366873422" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="filtering matrix - ring chart_poster_.png" crc="4051272390" ref="current-project"/>
-    <file name="examples - dynamic affordance.gif" crc="4219975003" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="examples - indirect movement.gif" crc="3885330744" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="examples - hand occlusion.gif" crc="3972768146" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-      <caption webpage="xr-interaction-design" alt=""/>
-      <caption webpage="ciaran-trotman--xr-interaction-design" alt=""/>
-    </file>
-    <file name="interaction-design-plan.svg" crc="3897240463" seo="true" ref="current-project">
-      <caption webpage="current-project" alt=""/>
-    </file>
-    <file name="interaction design plan_poster_.png" crc="61188391" ref="current-project"/>
-    <file name="contact---github.svg" crc="66777257" seo="true" ref="index:current-project:current-project-uc:phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-      <caption webpage="current-project" alt=""/>
-    </file>
-    <file name="contact - github_poster_.png" crc="4147173034" ref="index:phone>index"/>
-    <file name="fyp---github-repo.svg" crc="3899105560" seo="true" ref="current-project-uc:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-project-uc" alt=""/>
-    </file>
-    <file name="fyp - github repo_poster_.png" crc="519771594" ref="index"/>
-    <file name="fyp---youtube.svg" crc="99165082" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fyp - youtube_poster_.png" crc="4013020739" ref="index"/>
-    <file name="ciarantrotmancom header.png" crc="145885984" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ciarantrotmancom header301x201.png" crc="447619907" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="projects - cookie clicker 2-crop-u5728.jpg" crc="3894413662" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sam_1982-crop-u5911.jpg" crc="28985173" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="home--sidebar-favicon.ico" crc="362674282" ref="index"/>
   </folder>
-  <file name="index.html" crc="4042088178" seo="true" mt="1531751597562" redirect="true"/>
-  <file name="current-project.html" crc="111594870" seo="true" mt="1531749467475" redirect="true"/>
-  <file name="current-project-uc.html" crc="4186965224" seo="true" mt="1531749467049" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4124205407" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="404576742" seo="true" mt="1534770311741" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="184663503" seo="true" mt="1534770885400" redirect="true"/>
+  <file name="ciaran-trotman--about.html" crc="4237942453" seo="true" mt="1534770289364" redirect="true"/>
 </manifest>
