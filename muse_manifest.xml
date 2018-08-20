@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1534770902062">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1534771631499">
   <folder name="css">
-    <file name="site_global.css" crc="309371708"/>
+    <file name="site_global.css" crc="3881411275"/>
     <file name="master_home--sidebar.css" crc="474295059" ref="ciaran-trotman--about:index"/>
     <file name="ciaran-trotman--about.css" crc="4147598548" ref="ciaran-trotman--about"/>
     <file name="index.css" crc="4002984615" ref="index"/>
