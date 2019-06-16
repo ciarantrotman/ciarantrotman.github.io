@@ -1,9 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="ciarantrotman.github.io,http://ciarantrotman.com/ciaran-trotman--about.html,ciarantrotman.com/index.html" resolutions="1x" timestamp="1560693593770">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="ciarantrotman.github.io,http://ciarantrotman.com/ciaran-trotman--about.html,ciarantrotman.com/index.html" resolutions="1x" timestamp="1560693712053">
+  <folder name="assets">
+    <file name="ciaran_trotman_cv_2019.pdf" crc="4096326880" seo="true" mt="1560689890000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="134724393"/>
-    <file name="master_home--sidebar.css" crc="182239567" ref="index:ciaran-trotman--about"/>
-    <file name="index.css" crc="152067986" ref="index"/>
-    <file name="ciaran-trotman--about.css" crc="363599174" ref="ciaran-trotman--about"/>
+    <file name="master_home--sidebar.css" crc="345736893" ref="index:ciaran-trotman--about"/>
+    <file name="index.css" crc="3842319415" ref="index"/>
+    <file name="ciaran-trotman--about.css" crc="3962336916" ref="ciaran-trotman--about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:ciaran-trotman--about"/>
@@ -23,28 +26,22 @@
     <file name="h---home-page-favicon.ico" crc="370142808" ref="phone>index"/>
     <file name="ora render.jpg" crc="195351335" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
     <file name="magazine hero.jpg" crc="386433707" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="projects - nudest.jpg" crc="3903862971" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="office render flipped.png" crc="4072060936" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="close-up-veil.jpg" crc="176413700" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
     <file name="favicon - text-01.png" crc="237992591" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="home--sidebar-favicon.ico" crc="362674282" ref="index"/>
@@ -55,6 +52,6 @@
     </folder>
     <file name="index.html" crc="3827800103" seo="true" mt="1560693285268" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4001554927" seo="true" mt="1560693285267" redirect="true"/>
-  <file name="ciaran-trotman--about.html" crc="3907676657" seo="true" mt="1560693285268" redirect="true"/>
+  <file name="index.html" crc="91332976" seo="true" mt="1560693700735" redirect="true"/>
+  <file name="ciaran-trotman--about.html" crc="519210099" seo="true" mt="1560693700735" redirect="true"/>
 </manifest>

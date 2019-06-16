@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000009;
-	background-color: #105F92;
+	color: #0000E5;
+	background-color: #052437;
 }
 
 #page
@@ -197,7 +197,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u11847-16
+#u11847-20
 {
 	z-index: 80;
 	width: 220px;
@@ -209,7 +209,7 @@
 
 #menuu11848
 {
-	z-index: 96;
+	z-index: 100;
 	width: 220px;
 	height: 148px;
 	position: fixed;
@@ -548,7 +548,7 @@
 
 #u11332
 {
-	z-index: 133;
+	z-index: 137;
 	width: 58px;
 	border-width: 0px;
 	border-color: transparent;
@@ -561,7 +561,7 @@
 
 #u11333
 {
-	z-index: 134;
+	z-index: 138;
 	width: 58px;
 	background-color: transparent;
 	position: fixed;

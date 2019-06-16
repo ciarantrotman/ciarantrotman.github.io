@@ -1,7 +1,7 @@
 .version.ciaran_trotman__about /* version checker */
 {
-	color: #000015;
-	background-color: #AC1546;
+	color: #0000EC;
+	background-color: #2C7694;
 }
 
 #page
@@ -1029,7 +1029,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u11847-16
+#u11847-20
 {
 	z-index: 267;
 	width: 220px;
@@ -1041,7 +1041,7 @@
 
 #menuu11848
 {
-	z-index: 283;
+	z-index: 287;
 	width: 220px;
 	height: 148px;
 	position: fixed;
