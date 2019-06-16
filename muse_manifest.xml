@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1534771631499">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ciarantrotman.github.io" resolutions="1x" timestamp="1560690932289">
   <folder name="css">
     <file name="site_global.css" crc="3881411275"/>
-    <file name="master_home--sidebar.css" crc="474295059" ref="ciaran-trotman--about:index"/>
-    <file name="ciaran-trotman--about.css" crc="4147598548" ref="ciaran-trotman--about"/>
-    <file name="index.css" crc="4002984615" ref="index"/>
+    <file name="master_home--sidebar.css" crc="383982880" ref="ciaran-trotman--about:index"/>
+    <file name="ciaran-trotman--about.css" crc="4065282813" ref="ciaran-trotman--about"/>
+    <file name="index.css" crc="4069067415" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:ciaran-trotman--about"/>
@@ -51,10 +51,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4124205407" ref="phone>index"/>
+      <file name="index.css" crc="175749140" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="404576742" seo="true" mt="1534770311741" redirect="true"/>
+    <file name="index.html" crc="3918990502" seo="true" mt="1560690446600" redirect="true"/>
   </folder>
-  <file name="index.html" crc="184663503" seo="true" mt="1534770885400" redirect="true"/>
-  <file name="ciaran-trotman--about.html" crc="4237942453" seo="true" mt="1534770289364" redirect="true"/>
+  <file name="index.html" crc="4191849913" seo="true" mt="1560690402571" redirect="true"/>
+  <file name="ciaran-trotman--about.html" crc="14412375" seo="true" mt="1560690834101" redirect="true"/>
 </manifest>
