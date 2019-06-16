@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="ciarantrotman.github.io,ciarantrotman.com,ciarantrotman.com/ciaran-trotman--about.html,ciarantrotman.com/index.html" resolutions="1x" timestamp="1560693473515">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="ciarantrotman.github.io,http://ciarantrotman.com/ciaran-trotman--about.html,ciarantrotman.com/index.html" resolutions="1x" timestamp="1560693593770">
   <folder name="css">
     <file name="site_global.css" crc="134724393"/>
     <file name="master_home--sidebar.css" crc="182239567" ref="index:ciaran-trotman--about"/>
@@ -53,8 +53,8 @@
     <folder name="css">
       <file name="index.css" crc="225692352" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="54823942" seo="true" mt="1560693285268" redirect="true"/>
+    <file name="index.html" crc="3827800103" seo="true" mt="1560693285268" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4121902793" seo="true" mt="1560693285267" redirect="true"/>
-  <file name="ciaran-trotman--about.html" crc="487613195" seo="true" mt="1560693285268" redirect="true"/>
+  <file name="index.html" crc="4001554927" seo="true" mt="1560693285267" redirect="true"/>
+  <file name="ciaran-trotman--about.html" crc="3907676657" seo="true" mt="1560693285268" redirect="true"/>
 </manifest>
