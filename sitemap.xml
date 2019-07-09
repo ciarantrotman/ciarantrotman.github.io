@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ciarantrotman.github.io/index.html</loc>
-    <lastmod>2019-06-16</lastmod>
+    <lastmod>2019-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ciarantrotman.github.io/phone/index.html"/>
@@ -23,6 +23,9 @@
     </image:image>
     <image:image>
       <image:loc>http://ciarantrotman.github.io/images/favicon%20-%20text-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ciarantrotman.github.io/images/projects%20-%20icon.jpg</image:loc>
     </image:image>
   </url>
   <url>
