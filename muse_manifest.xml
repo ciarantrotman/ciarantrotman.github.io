@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="ciarantrotman.github.io,http://ciarantrotman.com/ciaran-trotman--about.html,ciarantrotman.com/index.html" resolutions="1x" timestamp="1562706922447">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="ciarantrotman.github.io,http://ciarantrotman.com/ciaran-trotman--about.html,ciarantrotman.com/index.html" resolutions="1x" timestamp="1562786315088">
   <folder name="assets">
     <file name="ciaran_trotman_cv_2019.pdf" crc="4096326880" seo="true" mt="1560689890000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="422523987"/>
-    <file name="master_home--sidebar.css" crc="4213183385" ref="index:ciaran-trotman--about"/>
-    <file name="index.css" crc="4034634585" ref="index"/>
+    <file name="site_global.css" crc="134724393"/>
+    <file name="master_home--sidebar.css" crc="345736893" ref="index:ciaran-trotman--about"/>
+    <file name="index.css" crc="154946613" ref="index"/>
     <file name="ciaran-trotman--about.css" crc="3962336916" ref="ciaran-trotman--about"/>
   </folder>
   <folder name="scripts">
@@ -55,6 +55,6 @@
     </folder>
     <file name="index.html" crc="3827800103" seo="true" mt="1560693285268" redirect="true"/>
   </folder>
-  <file name="index.html" crc="58468116" seo="true" mt="1562706857802" redirect="true"/>
-  <file name="ciaran-trotman--about.html" crc="519210099" seo="true" mt="1560693700735" redirect="true"/>
+  <file name="index.html" crc="3889983157" seo="true" mt="1562786302962" redirect="true"/>
+  <file name="ciaran-trotman--about.html" crc="4043786688" seo="true" mt="1562786246842" redirect="true"/>
 </manifest>
