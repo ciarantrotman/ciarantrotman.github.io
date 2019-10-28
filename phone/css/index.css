@@ -1,19 +1,19 @@
 .version.index /* version checker */
 {
-	color: #00000D;
-	background-color: #73CAC0;
+	color: #000009;
+	background-color: #A08BE4;
 }
 
 #page
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 467px;
+	min-height: 439px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 103px;
+	padding-bottom: 131px;
 }
 
 #pslideshowu12275
@@ -167,14 +167,14 @@
 	background-color: #FFFFFF;
 }
 
-#u12272-16
+#u12272-20
 {
 	z-index: 22;
 	width: 320px;
-	min-height: 233px;
+	min-height: 320px;
 	background-color: transparent;
 	color: #414042;
-	margin-bottom: -32px;
+	margin-bottom: -60px;
 	position: relative;
 	margin-right: -10000px;
 	left: 30px;
@@ -190,7 +190,7 @@
 	font-weight: 400;
 }
 
-#u12272-4,#u12272-6,#u12272-8,#u12272-14
+#u12272-4,#u12272-6,#u12272-8,#u12272-18
 {
 	font-size: 12px;
 	line-height: 18px;
@@ -217,7 +217,7 @@
 
 .css_verticalspacer .verticalspacer
 {
-	height: calc(100vh - 835px);
+	height: calc(100vh - 863px);
 }
 
 #muse_css_mq,.html

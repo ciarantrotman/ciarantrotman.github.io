@@ -1,19 +1,19 @@
 .version.ciaran_trotman__about /* version checker */
 {
-	color: #0000EC;
-	background-color: #2C7694;
+	color: #000010;
+	background-color: #BACC25;
 }
 
 #page
 {
 	z-index: 1;
 	width: 940px;
-	min-height: 452px;
+	min-height: 1073px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 48px;
+	padding-bottom: 62px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -1059,7 +1059,7 @@
 {
 	width: 220px;
 	min-height: 14px;
-	padding-bottom: 9px;
+	padding-bottom: 14px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -1084,7 +1084,7 @@
 	min-height: 14px;
 	position: relative;
 	margin-right: -10000px;
-	top: 4px;
+	top: 7px;
 }
 
 #u11829.MuseMenuActive #u11830-4,#u11859:hover #u11861-4
@@ -1109,7 +1109,7 @@
 {
 	width: 220px;
 	min-height: 14px;
-	padding-bottom: 9px;
+	padding-bottom: 14px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -1134,7 +1134,7 @@
 	min-height: 14px;
 	position: relative;
 	margin-right: -10000px;
-	top: 4px;
+	top: 7px;
 }
 
 #u11859.MuseMenuActive #u11861-4,#u11866:hover #u11869-4
@@ -1159,7 +1159,7 @@
 {
 	width: 220px;
 	min-height: 14px;
-	padding-bottom: 9px;
+	padding-bottom: 14px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -1184,7 +1184,7 @@
 	min-height: 14px;
 	position: relative;
 	margin-right: -10000px;
-	top: 4px;
+	top: 7px;
 }
 
 #u11866.MuseMenuActive #u11869-4,#u11873:hover #u11875-4
@@ -1209,7 +1209,7 @@
 {
 	width: 220px;
 	min-height: 14px;
-	padding-bottom: 9px;
+	padding-bottom: 14px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -1234,7 +1234,7 @@
 	min-height: 14px;
 	position: relative;
 	margin-right: -10000px;
-	top: 4px;
+	top: 7px;
 }
 
 #u11873.MuseMenuActive #u11875-4,#u11880:hover #u11883-4
@@ -1255,57 +1255,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u11885
-{
-	width: 220px;
-	min-height: 14px;
-	padding-bottom: 9px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u11880.MuseMenuActive,#u11885:hover
-{
-	width: 220px;
-	min-height: 14px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u11885:active
-{
-	width: 220px;
-	min-height: 14px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u11887-4
-{
-	width: 220px;
-	min-height: 14px;
-	position: relative;
-	margin-right: -10000px;
-	top: 4px;
-}
-
-#u11880.MuseMenuActive #u11883-4,#u11885:hover #u11887-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 14px;
-	width: 220px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u11885:active #u11887-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 14px;
-	width: 220px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u11840,#u11826,#u11863,#u11870,#u11877,#u11884,#u11849
+#u11840,#u11826,#u11863,#u11870,#u11877,#u11849
 {
 	width: 220px;
 	margin-top: 2px;
@@ -1316,12 +1266,12 @@
 {
 	width: 220px;
 	min-height: 14px;
-	padding-bottom: 9px;
+	padding-bottom: 14px;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u11885.MuseMenuActive,#u11852:hover
+#u11880.MuseMenuActive,#u11852:hover
 {
 	width: 220px;
 	min-height: 14px;
@@ -1348,10 +1298,10 @@
 	min-height: 14px;
 	position: relative;
 	margin-right: -10000px;
-	top: 4px;
+	top: 7px;
 }
 
-#u11885.MuseMenuActive #u11887-4,#u11852:hover #u11855-4
+#u11880.MuseMenuActive #u11883-4,#u11852:hover #u11855-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;

@@ -486,66 +486,7 @@
 	font-style: normal;
 }
 
-#u11885
-{
-	-webkit-transition-duration: 0.2s;
-	-webkit-transition-delay: 0s;
-	-webkit-transition-timing-function: ease-in-out;
-	transition-duration: 0.2s;
-	transition-delay: 0s;
-	transition-timing-function: ease-in-out;
-	background-image: url("../images/blank.gif?crc=4208392903");
-	background-color: transparent;
-}
-
-#u11885:hover
-{
-	-webkit-transition-duration: 0.1s;
-	-webkit-transition-delay: 0s;
-	-webkit-transition-timing-function: ease-in-out;
-	transition-duration: 0.1s;
-	transition-delay: 0s;
-	transition-timing-function: ease-in-out;
-	opacity: 1;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-	filter: alpha(opacity=100);
-}
-
-#u11885:active
-{
-	opacity: 0.3;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
-	filter: alpha(opacity=30);
-}
-
-#u11887-4
-{
-	border-width: 0px;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 14px;
-	font-size: 12px;
-	text-align: left;
-	color: #414042;
-	font-family: roboto, sans-serif;
-	font-weight: 300;
-}
-
-#u11885:hover #u11887-4 p
-{
-	font-family: roboto, sans-serif;
-	font-weight: 700;
-	font-style: normal;
-}
-
-#u11885:active #u11887-4 p
-{
-	font-family: roboto, sans-serif;
-	font-weight: 700;
-	font-style: normal;
-}
-
-#u11833,#u11840,#u11826,#u11856,#u11863,#u11870,#u11877,#u11884,#u11849
+#u11833,#u11840,#u11826,#u11856,#u11863,#u11870,#u11877,#u11849
 {
 	background-color: transparent;
 }
@@ -582,7 +523,7 @@
 	filter: alpha(opacity=30);
 }
 
-#u11836.MuseMenuActive,#u11841.MuseMenuActive,#u11829.MuseMenuActive,#u11859.MuseMenuActive,#u11866.MuseMenuActive,#u11873.MuseMenuActive,#u11880.MuseMenuActive,#u11885.MuseMenuActive,#u11852.MuseMenuActive
+#u11836.MuseMenuActive,#u11841.MuseMenuActive,#u11829.MuseMenuActive,#u11859.MuseMenuActive,#u11866.MuseMenuActive,#u11873.MuseMenuActive,#u11880.MuseMenuActive,#u11852.MuseMenuActive
 {
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
@@ -616,7 +557,7 @@
 	font-style: normal;
 }
 
-#u11836.MuseMenuActive #u11839-4 p,#u11841.MuseMenuActive #u11842-4 p,#u11829.MuseMenuActive #u11830-4 p,#u11859.MuseMenuActive #u11861-4 p,#u11866.MuseMenuActive #u11869-4 p,#u11873.MuseMenuActive #u11875-4 p,#u11880.MuseMenuActive #u11883-4 p,#u11885.MuseMenuActive #u11887-4 p,#u11852.MuseMenuActive #u11855-4 p
+#u11836.MuseMenuActive #u11839-4 p,#u11841.MuseMenuActive #u11842-4 p,#u11829.MuseMenuActive #u11830-4 p,#u11859.MuseMenuActive #u11861-4 p,#u11866.MuseMenuActive #u11869-4 p,#u11873.MuseMenuActive #u11875-4 p,#u11880.MuseMenuActive #u11883-4 p,#u11852.MuseMenuActive #u11855-4 p
 {
 	font-family: roboto, sans-serif;
 	font-weight: 500;

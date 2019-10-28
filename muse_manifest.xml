@@ -1,12 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="ciarantrotman.github.io,http://ciarantrotman.com/ciaran-trotman--about.html,ciarantrotman.com/index.html" resolutions="1x" timestamp="1562786315088">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="ciarantrotman.github.io,http://ciarantrotman.com/ciaran-trotman--about.html,ciarantrotman.com/index.html" resolutions="1x" timestamp="1572292687575">
   <folder name="assets">
-    <file name="ciaran_trotman_cv_2019.pdf" crc="4096326880" seo="true" mt="1560689890000"/>
+    <file name="ciaran_trotman_cv_2019.pdf" crc="3927963495" seo="true" mt="1572292426000"/>
+    <file name="ciaran_trotman_cv_20192.pdf" crc="3927963495" seo="true" mt="1572292426000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="134724393"/>
-    <file name="master_home--sidebar.css" crc="345736893" ref="index:ciaran-trotman--about"/>
-    <file name="index.css" crc="154946613" ref="index"/>
-    <file name="ciaran-trotman--about.css" crc="3962336916" ref="ciaran-trotman--about"/>
+    <file name="site_global.css" crc="422523987"/>
+    <file name="master_home--sidebar.css" crc="313209694" ref="index:ciaran-trotman--about"/>
+    <file name="index.css" crc="4080595805" ref="index"/>
+    <file name="ciaran-trotman--about.css" crc="280677413" ref="ciaran-trotman--about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:ciaran-trotman--about"/>
@@ -26,22 +27,28 @@
     <file name="h---home-page-favicon.ico" crc="370142808" ref="phone>index"/>
     <file name="ora render.jpg" crc="195351335" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
     <file name="magazine hero.jpg" crc="386433707" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="projects - nudest.jpg" crc="3903862971" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="office render flipped.png" crc="4072060936" seo="true" ref="phone>index:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="close-up-veil.jpg" crc="176413700" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
     <file name="favicon - text-01.png" crc="237992591" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="home--sidebar-favicon.ico" crc="362674282" ref="index"/>
@@ -51,10 +58,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="225692352" ref="phone>index"/>
+      <file name="index.css" crc="161516516" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3827800103" seo="true" mt="1560693285268" redirect="true"/>
+    <file name="index.html" crc="362917305" seo="true" mt="1572292668270" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3889983157" seo="true" mt="1562786302962" redirect="true"/>
-  <file name="ciaran-trotman--about.html" crc="4043786688" seo="true" mt="1562786246842" redirect="true"/>
+  <file name="index.html" crc="116168403" seo="true" mt="1572292584410" redirect="true"/>
+  <file name="ciaran-trotman--about.html" crc="3806480468" seo="true" mt="1572292623289" redirect="true"/>
 </manifest>
