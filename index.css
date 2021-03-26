@@ -2,7 +2,12 @@
 {
     font-family:    Roboto, sans-serif; 
     font-size:      13px;
-    width:          600px;
+    color:          #101010;
+    width:          450px;
     padding:        60px;
-    line-height:    20px;
+    line-height:    18px;
+}
+#interactivecanvas
+{
+    border:         1px solid red;
 }
